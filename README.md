@@ -5,3 +5,16 @@ Despite advancements in underwater object detection (UOD) from optical underwate
 
 
 _Keywords_: Underwater object detection; feature pyramid network; convolutional neural network; vision transformer.
+
+**FBDPN:**
+
+![FBDPN](https://github.com/jixun-dmu/FBDPN/blob/main/images/FBDPN.jpg?raw=true)
+
+**NSFBM:**
+
+![NSFBM](https://github.com/jixun-dmu/FBDPN/blob/main/images/NSFBM.jpg?raw=true)
+
+**CSFDM:**
+
+![CSFDM](https://github.com/jixun-dmu/FBDPN/blob/main/images/CSFDM.jpg?raw=true)
+
