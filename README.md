@@ -41,5 +41,6 @@ If you use FBDPN in your research, please consider the following BibTeX entry an
 	issn = {0957-4174},
 	doi = {https://doi.org/10.1016/j.eswa.2024.124978},
 	url = {https://www.sciencedirect.com/science/article/pii/S0957417424018451},
-	author = {Xun Ji and Shijie Chen and Li-Ying Hao and Jingchun Zhou and Long Chen}}
+	author = {Xun Ji and Shijie Chen and Li-Ying Hao and Jingchun Zhou and Long Chen}
+ 	}
 
